@@ -6,7 +6,7 @@ The objective of PyBer_Challange
 ### Resources
 **Source of Data** : 
 
-**Software** : Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
+**Software** : pgAdmin 4, PostgreSQL, Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
 
 ## Results
 A Bulleted list with four (4) FOUR major points from the two analuysis deliverables.
