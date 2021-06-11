@@ -9,10 +9,10 @@ The objective of PyBer_Challange is to create more csv files from the csv files 
 **Software** : pgAdmin 4, PostgreSQL, Python 3.7.6 , Jupyter Notebook, Visual Studio Code.
 
 ## Results
-A Bulleted list with four (4) FOUR major points from the two analuysis deliverables.
-- From retirement_titles.csv we can see that there are many different types of titles and people to fill them, sometimes like with employee number 10009 Sumant Peac, he held a total of three titles at his time with the company. He was an engineer, senior engineer, as well as assistant engineer. This is helpful in recognizing the kinds of employees who are retiring but not the full picture and for that we will need to turn to unique_titles.csv. 
+A breakdown of the four newly created csv files
+- From retirement_titles.csv we can see that there are many different types of titles and people to fill them, sometimes like with employee number 10009 Sumant Peac, he held a total of three titles at his time with the company. He was an engineer, senior engineer, as well as assistant engineer. This is helpful in recognizing the kinds of employees who are retiring but not the full picture and for that we will need to turn to unique_titles.csv
 
-- one for unique_titles.csv
+- From unique_titles we can also see useful information such as employee number, names, and last known position with the company. This ensures that there is no repetition in names and gives a clearer picture as to the amount of employees who have retired or who will be hitting retirement age. Retirement_titles for example had well over 130,000 rows of information whereas unique_titles had exactly 90,399 rows. This tells the company that the adequate amount of new employees needed to replace the retiring employees is closer to 100,000. 
 - one for retiring titles.csv
 - one for the final mentorship_eligibilioty.csv
 
