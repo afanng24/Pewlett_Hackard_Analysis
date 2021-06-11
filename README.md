@@ -19,9 +19,4 @@ A breakdown of the four newly created csv files
   
 ## Summary
 
-adressses the two questions and contains two additional qqueries or tables that may provide more insight. 
-
-
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+There needs to be around 90,400 new hires in order to adequately fill the positions of those leaving the company. The mentorship_eligibility dataset only shows 1549 viable candidates who can participate in the mentorship program and to have those people train eight to nine times their number would be asking for a lot. There doesn’t seem to be enough coming in or mentors to adequately fill every position, however, those who are not at retirement age and are still with the company could be moved up into the more senior positions to help alleviate the burden of the wave of retirements. 
