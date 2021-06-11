@@ -11,10 +11,24 @@ The objective of PyBer_Challange is to create more csv files from the csv files 
 ## Results
 A breakdown of the four newly created csv files
 - From retirement_titles.csv we can see that there are many different types of titles and people to fill them, sometimes like with employee number 10009 Sumant Peac, he held a total of three titles at his time with the company. He was an engineer, senior engineer, as well as assistant engineer. This is helpful in recognizing the kinds of employees who are retiring but not the full picture and for that we will need to turn to unique_titles.csv
+![part1](https://user-images.githubusercontent.com/82983000/121728922-e2efe600-cabb-11eb-98f7-5d3c947e27be.png)
+
 
 - From unique_titles we can also see useful information such as employee number, names, and last known position with the company. This ensures that there is no repetition in names and gives a clearer picture as to the amount of employees who have retired or who will be hitting retirement age. Retirement_titles for example had well over 130,000 rows of information whereas unique_titles had exactly 90,398 rows. This tells the company that the adequate amount of new employees needed to replace the retiring employees is closer to 100,000. 
+
+![part2](https://user-images.githubusercontent.com/82983000/121729073-0d41a380-cabc-11eb-8943-20d8c785c0e2.png)
+
+
+
+
 - The third csv retiring_titles gives an overall summary of the positions that are needed to fill. This chart is the most telling so far as it confirms that the majority of the positions are senior positions or engineers of some description, roles which are not the easiest to fill. Engineers are difficult enough to recruit on their own, however, the problem is exacerbated as a great majority of those retiring hold senior engineer positions. Taking employee number 10009 Sumant Peac as an example, it is clear he worked his way up from assistant engineer, to engineer, and eventually senior engineer at which he will retire. There is a significant amount of time between those three positions and to fill the more crucial positions like senior engineer would require similar amounts of time spent on each employee. The same idea holds for the transition from staff to senior staff. 
+
+
+![part3](https://user-images.githubusercontent.com/82983000/121729182-28acae80-cabc-11eb-9260-b480123457ef.png)
+
+
 - The final dataset mentorship_eligibilty tracks the retired or retiring employees who are qualified enough to help with the hiring and training of new employees. The majority of the employees in this list are senior staff and senior engineers so in essence they will be training for their replacements. The dataset shows that there are only 1549 potential candidates available for mentorship. 
+
 
   
 ## Summary
